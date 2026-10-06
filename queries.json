@@ -15,7 +15,6 @@
   "q14": "how is RAG different from transformers",
   "q15": "is RAG used in ChatGPT",
   "q16": "current problems with RAG",
-  "q17": "short definition of RAG",
   "q18": "intro to RAG",
   "q19": "brief me on this topic in about 50 words",
   "q20": "what is the main idea behind RAG",
@@ -25,5 +24,7 @@
   "q24": "rag future",
   "q25": "rag current developments",
   "q26": "rag comparison with time",
-  "q27": "rag comparison with other methods"
+  "q27": "rag comparison with other methods",
+  "q28": "handling conflicting retrieved sources",
+  "q29": "privacy in rag"
 }
